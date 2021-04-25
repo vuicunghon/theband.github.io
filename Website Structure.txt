@@ -1,0 +1,16 @@
+1. Header 
+2. Navigation
+3. Container
+4. Breadcumb
+5. Sidebar
+6. Slider
+7. Banner
+8. Content
+9. Footer
+
+
+
+1. Position
+2. Size
+3. Color
+4. Style
